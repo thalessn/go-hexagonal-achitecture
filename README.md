@@ -1,3 +1,3 @@
 # Hexagonal Architecture
 
-Simple project using the Hexagonal Architecture with Golang
+Simple project to study the Hexagonal Architecture with Golang
